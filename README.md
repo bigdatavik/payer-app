@@ -56,7 +56,7 @@ streamlit run app.py
 
 ## Screenshots
 
-> *(Add 1-2 screenshots here of your dashboard UI and charts for maximum clarity and engagement)*
+![Payor Dashboard Screenshot](images/dashboard.png)
 
 ***
 
