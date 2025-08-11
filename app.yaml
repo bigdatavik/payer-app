@@ -6,7 +6,7 @@ command: [
 
 env:
   - name: "DATABRICKS_WAREHOUSE_ID"
-    valueFrom: "sql-warehouse"
+    valueFrom: "sql_warehouse"
   - name: STREAMLIT_BROWSER_GATHER_USAGE_STATS
     value: "false"
 
