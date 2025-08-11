@@ -85,7 +85,7 @@ Please open a Pull Request, file an Issue, or contact the authors for serious co
 
 ## License
 
-This project is open source; see [LICENSE](LICENSE) for details.
+This project is open source.
 
 ***
 
