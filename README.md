@@ -83,12 +83,6 @@ Please open a Pull Request, file an Issue, or contact the authors for serious co
 
 ***
 
-## Acknowledgments
-
-Special thanks to [Animesh Raj Jha](https://www.linkedin.com/in/animeshrajha/), [Sunmin Lee](https://www.linkedin.com/in/slee57/), [Brian Vanderhorst](https://www.linkedin.com/in/brian-vanderhorst-4951262/), [Alex Smith](https://www.linkedin.com/in/aas15/), [Kunal Gupta](https://www.linkedin.com/in/guptaku/), and [Ryan Hedlund](https://www.linkedin.com/in/ryan-hedlund-97945a2/) for their insights and support.
-
-***
-
 ## License
 
 This project is open source; see [LICENSE](LICENSE) for details.
@@ -103,5 +97,3 @@ This project is open source; see [LICENSE](LICENSE) for details.
 ***
 
 **For questions or demos, please reach out or open an issue!**
-
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/images/11782157/e27bc286-4400-4515-aea9-6fb73c3ffd2d/image.jpg?AWSAccessKeyId=ASIA2F3EMEYEZLZFKLKA&Signature=aVMVyL9KHr9Gnx2ckYlM1LMlO5Q%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEKr%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIDD%2F5k1gAqNCBG%2FnXqRu%2Fl41qTpy01OdHpRCTnHBYsLWAiEAx7jM3DtQYw%2Bcgw9co0%2Fx71r9qey%2Fg6GGHe6ugKN%2FEioq%2BgQI4%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARABGgw2OTk3NTMzMDk3MDUiDIgY3AjV9qmqbwQkJirOBGqCe0D8zmS0IPMepGD4ukeksvM9tJFxr3GnbxEmczu5kGWJFig8JTlMzBT%2FsmNq1Y0blMDzeLsAQpgOA%2BNLU08A30Lv35%2FvU6vquuQla3pr52U%2BLxh3uskpADMGB22TPm6pyzwNyt%2BxvyibpOOaLj3pNumCIg42gf7s0ObkH06DDWNdzb8phUjwsryFvYFOLTR2xxeRXRV4QAaM413XoQliM3sJZ1g3ALchZMAgaF1Sa74rrWXRcBpGCOV7vRxjqfq%2BFcOiNH5pWp%2Fda5WurTMMXFwCYLSypoLG19%2FmQxrEk1Tho4J9BsJb%2FtTFP%2FP%2FK6JPY8lfOhuUPA%2BJn5vlRsKU0Gsb1P4jxetAaftPl%2FWLMgLk%2BzALGHCHEuQCpan%2BW1%2FAttOfWxFPaKVuv976YN9mmce2fXeyrL3qZGSfE2qM3AehL3grrbwYWTYbPC3rkMr0ZAbjCOQln6K9I9mPafKDC7ODLMWSyywsjp2ayOa8X9ikB7WCeKZsrfxEz1WUJJBBNTX8iUAD2sVyGEIN3w0dHZ4W1o5Oqda9va7eCYlH0BY%2FanKD5%2B7fqSUZMIuJOGeMukd6%2FUnlhWOfvWb0389ewB5ZXArW3jlQtoRRtGAJE%2B1h0Z1xfygzo7L4zkTSaPEtkUioZrvOhMBHWfEBo8zDtL7XtkT9IlzWQkbc6up%2BQlxIynzCroVQt51qH32TTyHmaM%2BSe%2FvkMiq2Gv9P1rUvQ4qzUVgfxbXNIoOvaYSlmIRmMZ14n8UjM6eeEp2eRU0N6Xj%2Bjo5wNtjuThKbMIeS5cQGOpoB7h98r11N9knhfXQ9%2B57MfnYf1ndCm2ADB0V5gRB56yfOtTJ8azGJzsnSJnxAn5nFAEsT5qUsMyQ5fmUDDu6AeXjVlezKhhFEaeHEbkmOs7aTBvaGWaiLTsIHkMMzN7fgFjcbIOKTVp24GbhmUZRfTRyE%2Bh%2Bju59VoMAPZ78q%2FASA4D7hMxVWEG1%2Bbr2U2Wm28hxTUUhzYKdosw%3D%3D&Expires=1754877771
