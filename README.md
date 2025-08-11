@@ -2,7 +2,7 @@
 
 # Payor Analytics Dashboard — Databricks App
 
-**Authors:** Vik Malhotra
+**Authors:** Vik Malhotra, Jaideep Patel  
 **Prerequisite Data Pipeline:** [Payer Medallion Project](https://github.com/bigdatavik/payer_dlt)
 
 ***
