@@ -76,6 +76,27 @@ streamlit run app.py
 
 ***
 
+
+## ⚠️ Unity Catalog Permissions for Databricks Apps
+
+When you deploy this app, Databricks automatically creates a **dedicated service principal** identity for the app.
+
+To allow the app to query any Unity Catalog catalog, schema, or table, you **must grant the required permissions** (such as `USE CATALOG`, `USE SCHEMA`, `SELECT`) to the app’s service principal.
+
+You can find the app’s service principal ID in the **Databricks Apps UI** under the **Authorization** tab for your app.
+
+Grant permissions using either the **Catalog Permissions UI** or with SQL commands, for example:
+
+```
+GRANT USE CATALOG ON CATALOG  TO '';
+GRANT USE SCHEMA ON SCHEMA . TO '';
+GRANT SELECT ON TABLE .. TO '';
+```
+
+For more details, see the [Databricks App authorization documentation](https://learn.microsoft.com/en-us/azure/databricks/dev-tools/databricks-apps/auth).
+
+***
+
 ## Contributing
 
 Contributions, issues, and feature requests welcomed!  
