@@ -1,7 +1,3 @@
-# payer-app-priorauth
-=======
-***
-
 # Payor Analytics Dashboard — Databricks App
 
 **Authors:** [Vik Malhotra](https://www.linkedin.com/in/vkmalhotra/), [Jaideep Patel](https://www.linkedin.com/in/jaideeppatel/)
