@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # payer-app-priorauth
 =======
 ***
